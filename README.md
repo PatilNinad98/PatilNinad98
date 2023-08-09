@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ninad Patil</h1>
 <h3 align="center">A passionate frontend developer from India and also an Office 365 Software Engineer</h3>
-<p>Software development engineer with knowledge of web development, MS Dynamics 365, and MS Office 365 (SharePoint, OneDrive, and Power Platform). Certified Scrum Master from Scrum alliance org: https://bcert.me/sjrcdmymw
- • MS Dynamics 365 - Customer service engine development and different customizations.
- • Various SharePoint projects with out-of-the-box functionalities and custom development. 
- • Spfx (React) development for dynamic web parts (Carousel, Accordion) and SharePoint custom forms for different departments.
- • Integration of MS Power Automate,  Power Apps with SharePoint, and Creation of custom forms from Power App (Canvas app).
- • SP workflows to Power Automate flow conversion (More than 150 flows were converted and developed).
- • SharePoint classic to SharePoint modern conversion and migration project with the ShareGate tool with deep knowledge of the migration process.
- • Administration and governance of Power Platform (Power apps, Power Automate and Power BI).
- • Power platform global COE implementation, enhancement, and administration. 
- • O365 global projects such as policy rollouts for more than 30k users of OneDrive for business. 
-
-◇ Has hands-on experience in Spfx, PnpJs, ReactJs, Fluent UI, JavaScript, TypeScript,  JQuery, Angular, and Powershell. 
-
-◇ Microsoft-certified Power Platform fundamentals, Power App Maker, Power Platform functional consultant, and Azure fundamentals</p>
+<p>Software development engineer with knowledge of web development, MS Dynamics 365, and MS Office 365 (SharePoint, OneDrive, and Power Platform). MS Dynamics 365 - Customer service engine development and different customizations. Various SharePoint projects with out-of-the-box functionalities and custom development. Spfx (React) development for dynamic web parts (Carousel, Accordion) and SharePoint custom forms for different departments. Integration of MS Power Automate,  Power Apps with SharePoint, and Creation of custom forms from Power App (Canvas app). Has hands-on experience in Spfx, PnpJs, ReactJs, Fluent UI, JavaScript, TypeScript,  JQuery, Angular, and Powershell. Microsoft-certified Power Platform fundamentals, Power App Maker, Power Platform functional consultant, and Azure fundamentals</p>
 
 - 📫 How to reach me **Patilninadwork98@gmail.com**
 
